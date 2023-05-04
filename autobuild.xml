@@ -8,7 +8,7 @@
       <key>description</key>
       <string>C# .NET libraries for interacting with virtual worlds.</string>
       <key>license</key>
-      <string>BSD</string>
+      <string>MIT</string>
       <key>license_file</key>
       <string>LICENSES/libopenmetaverse.txt</string>
       <key>name</key>
